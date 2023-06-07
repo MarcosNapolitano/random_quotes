@@ -14,7 +14,7 @@ Click "New Quote" to get a random chosen quote(the color pallete will also chang
 
 ## Quickview
 
-![Screenshot of my homepage](https://marcosnapolitano.github.io/random_quotes/static/thumbnail.jpg)
+![Screenshot of the site](https://marcosnapolitano.github.io/random_quotes/Assets/thumbnail.jpg)
 
 ## Quickstart
 
@@ -50,7 +50,7 @@ Once the indexes are generated, `Jquery` is used to select the elements containi
 
 ## Final Notes
 
-This site was deployed using [GitHub Pages](https://pages.github.com/).
+This site was deployed using [GitHub Pages](https://pages.github.com/). A workflow provided by Vite is included to build the app correctly.
 
 
 

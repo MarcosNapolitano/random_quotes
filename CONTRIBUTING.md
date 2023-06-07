@@ -17,7 +17,7 @@ Refer to the following articles on the basics of Git and Github. You can also co
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the existing [Issues](https://github.com/MarcosNapolitano/marcosnapolitano.github.io/issues) or create your own Issues!
+- Take a look at the existing [Issues](https://github.com/MarcosNapolitano/random_quotes/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
@@ -26,19 +26,19 @@ Refer to the following articles on the basics of Git and Github. You can also co
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
-**1.** Fork [this](https://github.com/MarcosNapolitano/marcosnapolitano.github.io) repository.
-Click on the <a href="https://github.com/MarcosNapolitano/marcosnapolitano.github.io"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+**1.** Fork [this](https://github.com/MarcosNapolitano/random_quotes) repository.
+Click on the <a href="https://github.com/MarcosNapolitano/random_quotes"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 **2.** Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/marcosnapolitano.github.io
+git clone https://github.com/<your-github-username>/random_quotes
 ```
 
 **3.** Navigate to the project directory.
 
 ```bash
-cd marcosnapolitano.github.io
+cd random_quotes
 ```
 **5.** Create a new branch:
 ```bash
@@ -64,7 +64,7 @@ git push origin <YourBranchName>
 
 **9.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**10.** **Congratulations!** Sit and relax, you've made your contribution to the [HomePage](https://github.com/MarcosNapolitano/marcosnapolitano.github.io) project.
+**10.** **Congratulations!** Sit and relax, you've made your contribution to the [Random Quotes](https://github.com/MarcosNapolitano/random_quotes) project.
 
 ***:trophy: After this, I will review the changes and will merge your PR if they add value, or I will suggest any required changes.***
 

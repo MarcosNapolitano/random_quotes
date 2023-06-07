@@ -14,7 +14,7 @@ Click "New Quote" to get a random chosen quote(the color pallete will also chang
 
 ## Quickview
 
-![Screenshot of the site](https://marcosnapolitano.github.io/random_quotes/Assets/thumbnail.jpg)
+![Screenshot of the site](https://marcosnapolitano.github.io/Assets/thumbnail1.jpg)
 
 ## Quickstart
 

@@ -1,19 +1,18 @@
 import React from 'react'
 import { quotes, authors, colors } from './data.js'
 
-
-
-
 class App extends React.Component {
+
   constructor(props) {
     super(props);
     this.state={
       quotes: quotes,
       authors: authors,
       colors: colors,
-      color: "rgb(143, 35, 35)",
       quote:'',
-      author:''
+      author:'',
+      color: "rgb(143, 35, 35)"
+
     };
     this.newQuote = this.newQuote.bind(this);
   };
@@ -52,9 +51,7 @@ class App extends React.Component {
 
     },750)
     
-
   };
-
 
   render() {
     return(
@@ -73,6 +70,5 @@ class App extends React.Component {
     )
   }
 };
-  
   
 export default App

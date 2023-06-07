@@ -20,10 +20,13 @@ Click "New Quote" to get a random chosen quote(the color pallete will also chang
 
 *Make sure both node.js and npm are installed on your OS.*
 
-1. Fork the project
-2. Clone project using `git clone git@github.com:<YOUR-USERNAME>/marcosnapolitano.github.io.git`
-3. Navigate into the project using `cd marcosnapolitano.github.io`
-4. Run `npx serve`
+1. Fork the project.
+2. Clone project using `git clone git@github.com:<YOUR-USERNAME>/random_quotes.git`.
+3. Navigate into the project using `cd random_quotes`.
+4. Run `npm install` then `npm audit fix` (this is a Vite Server security issue).
+6. Finally run `npm run dev`.
+7. Now the app is running in `localhost:5173/random_quotes/`.
+
 
 *Disclaimer: I'm using a personal kit from FontAwesome for the Twitter icon. I currently don't know if forking this repo without my FontAwesome's user will break this feature, but if that's the case, you have to set up the icon manually.*
 
